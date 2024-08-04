@@ -9,6 +9,9 @@
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/13LcyUO6n6DPlsDfwQcmbq1qgLmvvtaEH/view?usp=sharing">here</a>
 
+<h3 align="left">Education:</h3>
+- 🎓 Master of Science in Robotics and Intelligent Machine Engineering, NUST Islamabad, Pakistan<br>
+- 🎓 Bachelor of Science in Industrial Engineering, UET Taxila, Pakistan
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
