@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hussain Nasir Khan</h1>
 <h3 align="center">Software Engineer Specializing in GenAI, Computer Vision, and NLP</h3>
 
-- 🌱 I’m currently learning **Generative AI**
-
-- 📝 I regularly write articles on [https://aihints.com/](https://aihints.com/)
-
 - 📫 How to reach me **engrhussainnasirkhan@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/13LcyUO6n6DPlsDfwQcmbq1qgLmvvtaEH/view?usp=sharing">here</a>
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/hussain-nasir-khan/">here</a>
 
 <h3 align="left">Education:</h3>
 🎓 Master of Science in Robotics and Intelligent Machine Engineering, NUST Islamabad, Pakistan<br>
